@@ -7,6 +7,7 @@
 
 
 - [博 文](timeline/index.md)
+- [更新日志](release/index.md)
 - [使用手册](useage/index.md)
 - [关 于](about/index.md)
 

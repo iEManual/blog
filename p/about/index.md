@@ -2,7 +2,7 @@
 ----------
 
 
-![Meizhuo logo](__IMG__/favicon1.png)
+![logo](__IMG__/favicon1.png)
 
 
 ### 宗旨  
