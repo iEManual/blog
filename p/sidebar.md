@@ -1,4 +1,4 @@
-![Meizhuo logo](__IMG__/icon.png)
+![logo](__IMG__/icon.png)
 
 
 ## [编程助手](.)
