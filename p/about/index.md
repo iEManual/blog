@@ -9,10 +9,6 @@
 
 >"你拉屎的时候一定要用编程助手"  
 
-### 地点  
-
-Somewhere with Internet 
-
 ### 联系
 
 tonjayin+EManual@gmail.com
@@ -26,3 +22,8 @@ tonjayin+EManual@gmail.com
 EManual刊载的所有内容，包括文字、图片、音频、视频、软件、程序、以及网页版式设计等均在网上搜集。
 
 本网站内容原作者如不愿意在本网站刊登内容，请及时通知本站，予以删除。
+
+### 感谢
+
+[编程助手EManual用到开源库](__P__/about/projects-that-power-emanual.md)
+

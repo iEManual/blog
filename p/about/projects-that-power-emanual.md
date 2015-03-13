@@ -14,11 +14,11 @@
 
 ### Python
 
-- 命令行创建工具[click](https://github.com/mitsuhiko/click)
-- 路径解释[path.py](https://github.com/jaraco/path.py)
-- 中文转拼音[pypinyin](https://github.com/smallqiao/pypinyin)
-- markdown渲染[mistune](https://github.com/lepture/mistune)
-- DOM操作[beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/)
+- [click](https://github.com/mitsuhiko/click)
+- [path.py](https://github.com/jaraco/path.py)
+- [pypinyin](https://github.com/smallqiao/pypinyin)
+- [mistune](https://github.com/lepture/mistune)
+- [beautifulsoup4](http://www.crummy.com/software/BeautifulSoup/)
 
 
 ### Javascript
