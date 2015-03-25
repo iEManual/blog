@@ -2,6 +2,7 @@
 ------
 > update at 2015-03-14
 
+编程助手得益于以下的开源项目，当然，编程助手项目也是[开放源代码](https://github.com/emanual)！
 
 ### Android
 
