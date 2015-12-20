@@ -2,9 +2,6 @@ Love what you’re doing with EManual
 ------------------
 > 2015-12-20 [Jayin](https://github.com/Jayin)
 
-![](http://ww2.sinaimg.cn/mw690/6ee3e8b3gw1ez61ky9i74j210m0lf42a.jpg)
-
-
 标题的灵感来源于单向数据流框架Flux的作者Jing Chen对后来居上Redux框架的评价
 
 >[“Love what you’re doing with Redux”](https://twitter.com/jingc/status/616608251463909376)  
