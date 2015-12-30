@@ -27,4 +27,4 @@ or 扫一扫
 
 个人微信号: t273942569 
 
-![微信支付](__IMG__/about/wechat_qrcode.png)
+![Wechat](__IMG__/about/wechat_qrcode.png)
