@@ -26,5 +26,6 @@ or 扫一扫
 ### 有想法？ 和我聊一聊吧！
 
 个人微信号: t273942569 
+(加好友时请介绍下自己or说明来自编程助手App)
 
 ![Wechat](__IMG__/about/wechat_qrcode.png)
