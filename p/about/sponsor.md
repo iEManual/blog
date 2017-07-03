@@ -27,9 +27,9 @@ or 扫一扫
 
 ![Wechat](__IMG__/about/wechat_qrcode.png)
 
-### 本人运营的微信公众号 —— 码农周末
+### 本人运营的微信公众号 —— 码梦人生
 
-微信号: manongzhoumo (`码农周末`拼音)
+微信搜索『码梦人生』，或扫一扫二维码
 
-![manongzhoumo](__IMG__/about/wechat-manongzhoumo.jpg)
+![manongzhoumo](__IMG__/about/wx_qrcode2.jpg)
 
