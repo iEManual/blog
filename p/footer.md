@@ -1,1 +1,1 @@
-CopyRight ©  2014-2015 [EManual](http://www.iEManual.com)
+CopyRight ©  2014-2017 [EManual](http://www.iEManual.com)
