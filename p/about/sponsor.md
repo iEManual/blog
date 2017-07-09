@@ -27,9 +27,15 @@ or 扫一扫
 
 ![Wechat](__IMG__/about/wechat_qrcode.png)
 
-### 本人运营的微信公众号 —— 码梦人生
+### 本人运营的微信公众号 —— 编程助手APP
 
-微信搜索『码梦人生』，或扫一扫二维码
+微信搜索『编程助手APP』，第一个就是。
 
-![manongzhoumo](__IMG__/about/wx_qrcode2.jpg)
+![app1](./img/01.png)
+
+或扫一扫二维码
+
+![app2](__IMG__/about/wx_qrcode2.jpg)
+
+微信公众号将会发布最新的APP信息和IT类咨询。如果你有任何建议或者疑惑，需要咨询我的，欢迎在微信公众号给我留言。
 
